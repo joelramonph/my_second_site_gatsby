@@ -1,0 +1,22 @@
+{
+  "name": "my-second-site-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-second-site-gatsby",
+  "author": "Joel Parra",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.24.4",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}

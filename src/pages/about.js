@@ -8,5 +8,7 @@ const AboutPage = () => {
     </Layout>
   )
 }
+export const Head = () => <title>About Me</title>
+
 
 export default AboutPage
